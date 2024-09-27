@@ -1,0 +1,8 @@
+# Ignore the main Whisper executable
+main
+
+# Ignore the entire whisper.cpp folder
+whisper.cpp/
+
+# Ignore the models folder containing downloaded Whisper models
+models/
